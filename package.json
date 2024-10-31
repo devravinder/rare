@@ -2,6 +2,7 @@
   "name": "@rare/ui-components",
   "version": "1.0.0",
   "main": "index.js",
+  "private": false,
   "homepage": "https://github.com/devravinder/rare",
   "scripts": {
     "start": "node index.js"
