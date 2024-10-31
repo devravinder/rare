@@ -1,0 +1,12 @@
+{
+  "name": "@rare",
+  "version": "1.0.0",
+  "main": "index.js",
+  "homepage": "https://github.com/devravinder/rare",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ravinder Reddy Kothabad",
+  "license": "ISC",
+  "description": ""
+}
